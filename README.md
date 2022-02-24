@@ -3,7 +3,8 @@
 ## Setup
 
 ```
-git clone 
+git clone https://github.com/NilsJacobsen/imgscraper_nodejs.git
+
 npm install
 ```
 
