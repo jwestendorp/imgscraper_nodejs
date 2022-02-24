@@ -1,0 +1,34 @@
+{
+  "name": "lost-weekend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/scrape.js",
+  "scripts": {
+    "export": "node csv-export.js",
+    "add-contributers": "node add-contributers.js",
+    "clean": "node clean.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scrape.js",
+    "backup": "node backup.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixhaeberle/lost-weekend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/felixhaeberle/lost-weekend/issues"
+  },
+  "homepage": "https://github.com/felixhaeberle/lost-weekend#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^14.3.2",
+    "json2csv": "^5.0.6",
+    "node-fetch": "^3.2.0",
+    "puppeteer": "^13.1.2",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  }
+}

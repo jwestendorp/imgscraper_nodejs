@@ -1,0 +1,51 @@
+name,email,contacted,role,projects
+chenglou,chenglou92@gmail.com,true,maintainer,Facebook React
+deepak1556,hop2deep@gmail.com,true,maintainer,Electron
+fanquake,fanquake@gmail.com,true,maintainer,Bitcoin Core
+gangliao,gangliao@cs.umd.edu,true,maintainer,Baidu PaddlePaddle
+iemejia,iemejia@gmail.com,true,maintainer,Apache Beam
+hjanuschka,helmut@januschka.com,true,maintainer,Fastlane
+MaxGekk,max.gekk@gmail.com,true,maintainer,Apache Spark
+mavasani,mavasani@microsoft.com,true,maintainer,Microsoft .NET Roslyn
+reduz,reduzio@gmail.com,true,maintainer,Godot Engine
+dmtrKovalenko,dmtr.kovalenko@outlook.com,true,maintainer,Material-UI
+brianrodri,brian@brianrodri.com,true,maintainer,Oppia
+kbrock,keenan@thebrocks.net,true,maintainer,ManageIQ
+fxcoudert,fxcoudert@gmail.com,true,maintainer,macOS Homebrew Package Manager
+talbs,hi.talbs@gmail.com,true,maintainer,Open edX
+madelynkasula,madelynkasula@gmail.com,true,maintainer,Code.org
+MarcoPolo,git@marcopolo.io,true,maintainer,Keybase
+stevekuznetsov,skuznets@redhat.com,true,maintainer,Red Hat OpenShift
+jfindlay,justin@findlay.space,true,maintainer,Saltstack
+nik9000,nik9000@gmail.com,true,maintainer,Elasticsearch
+afc163,afc163@gmail.com,true,maintainer,Ant Design
+sideshowbarker,mike@w3.org,true,maintainer,The web-platform-tests Project
+Ja-Dunn,v-jdunn@microsoft.com,true,maintainer,Azure Documentation
+rebornix,penn.lv@gmail.com,true,maintainer,Microsoft Visual Studio Code
+velconia,velconias@gmail.com,true,maintainer,Baidu PaddlePaddle
+alan-agius4,alan.agius4@gmail.com,true,maintainer,Angular CLI
+Hixie,ian@hixie.ch,true,maintainer,Google Flutter
+staticfloat,staticfloat@gmail.com,true,maintainer,Julia Language
+retrofox,rdsuarez@gmail.com,true,maintainer,Automattic WordPress Calypso
+vmihaylenko,vxmihaylenko@gmail.com,true,maintainer,MAPS.ME
+Bouncey,staylor1012@gmail.com,true,maintainer,freeCodeCamp
+chessbyte,chessbyte@gmail.com,true,maintainer,ManageIQ
+jacquesqiao,631761418@qq.com,true,maintainer,Baidu PaddlePaddle
+bpasero,benjpas@microsoft.com,true,maintainer,Microsoft Visual Studio Code
+resmo,mail@renemoser.net,true,maintainer,Ansible
+jhedberg,johan.hedberg@intel.com,true,maintainer,Zephyr Project
+ran-dall,ran.dall@icloud.com,true,maintainer,Homebrew Cask
+Centril,twingoow@gmail.com,true,maintainer,Rust
+indutny,fedor@indutny.com,true,maintainer,Node.js
+lacostej,jerome.lacoste@gmail.com,true,maintainer,Fastlane
+stack72,public@paulstack.co.uk,true,maintainer,Terraform
+VikParuchuri,github@vikas.sh,true,maintainer,Open edX
+theotherjimmy,jimmy.brisson@arm.com,true,maintainer,Arm Mbed OS
+alexeykuzmin,github@alexeykuzmin.com,true,maintainer,Electron
+cbuescher,cbuescher@posteo.de,true,maintainer,Elasticsearch
+cmccabe,colin@cmccabe.xyz,true,maintainer,Apache Kafka Mirror
+vojtechjelinek,vojtin.j@gmail.com,true,maintainer,Oppia
+diracdeltas,yan@mit.edu,true,maintainer,Brave Browser
+mrose17,mrose17@gmail.com,true,maintainer,Brave Browser
+jtojnar,jtojnar@gmail.com,true,maintainer,NixOS Package Collection
+Whissi,whissi@whissi.de,true,maintainer,Gentoo Repository Mirror

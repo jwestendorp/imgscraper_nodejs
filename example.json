@@ -1,0 +1,21 @@
+[
+  {
+    "project": "Google Kubernetes",
+    "description": "Container scheduling and management",
+    "repository": "https://github.com/kubernetes/kubernetes",
+    "website": "https://kubernetes.io/",
+    "contributers": []
+  }, {
+    "project": "Apache Spark",
+    "description": "A unified analytics engine for large-scale data processing",
+    "repository": "https://github.com/apache/spark",
+    "website": "http://spark.apache.org/",
+    "contributers": []
+  }, {
+    "project": "Microsoft Visual Studio Code",
+    "description": "A source-code editor",
+    "repository": "https://github.com/Microsoft/vscode",
+    "website": "https://code.visualstudio.com/",
+    "contributers": []
+  }
+]

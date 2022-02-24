@@ -1,0 +1,602 @@
+[
+  {
+    "Project": "Google Kubernetes",
+    "Description": "Container scheduling and management",
+    "Repository": "Repository: https://github.com/kubernetes/kubernetes",
+    "Website": "Website: https://kubernetes.io/"
+  },
+  {
+    "Project": "Apache Spark",
+    "Description": "A unified analytics engine for large-scale data processing",
+    "Repository": "Repository: https://github.com/apache/spark",
+    "Website": "Website: http://spark.apache.org/"
+  },
+  {
+    "Project": "Microsoft Visual Studio Code",
+    "Description": "A source-code editor",
+    "Repository": "Repository: https://github.com/Microsoft/vscode",
+    "Website": "Website: https://code.visualstudio.com/"
+  },
+  {
+    "Project": "NixOS Package Collection",
+    "Description": "A collection of packages for the Nix package manager",
+    "Repository": "Repository: https://github.com/NixOS/nixpkgs",
+    "Website": "Website: https://nixos.org"
+  },
+  {
+    "Project": "Rust",
+    "Description": "Programming language",
+    "Repository": "Repository: https://github.com/rust-lang/rust",
+    "Website": "Website: https://www.rust-lang.org/"
+  },
+  {
+    "Project": "Firehol IP Lists",
+    "Description": "Blacklists for Firehol, a firewall builder",
+    "Repository": "Repository: https://github.com/firehol/blocklist-ipsets",
+    "Website": "Website: https://iplists.firehol.org/"
+  },
+  {
+    "Project": "Red Hat OpenShift",
+    "Description": "A community distribution of Kubernetes optimized for continuous application development and multi-tenant deployment",
+    "Repository": "Repository: https://github.com/openshift/origin",
+    "Website": "Website: https://www.openshift.com/"
+  },
+  {
+    "Project": "Ansible",
+    "Description": "A deployment automation platform",
+    "Repository": "Repository: https://github.com/ansible/ansible",
+    "Website": "Website: https://www.ansible.com/"
+  },
+  {
+    "Project": "Automattic WordPress Calypso",
+    "Description": "A JavaScript and API powered front-end for WordPress.com",
+    "Repository": "Repository: https://github.com/Automattic/wp-calypso",
+    "Website": "Website: https://developer.wordpress.com/calypso/"
+  },
+  {
+    "Project": "Microsoft .NET CoreFX",
+    "Description": "Foundational class libraries for .NET Core",
+    "Repository": "Repository: https://github.com/dotnet/corefx",
+    "Website": "Website: https://docs.microsoft.com/en-us/dotnet/core/"
+  },
+  {
+    "Project": "Microsoft .NET Roslyn",
+    "Description": ".NET compiler",
+    "Repository": "Repository: https://github.com/dotnet/roslyn",
+    "Website": "Website: https://docs.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/"
+  },
+  {
+    "Project": "Node.js",
+    "Description": "A JavaScript runtime built on Chrome’s V8 JavaScript engine",
+    "Repository": "Repository: https://github.com/nodejs/node",
+    "Website": "Website: https://nodejs.org/en/"
+  },
+  {
+    "Project": "TensorFlow",
+    "Description": "Google’s machine learning framework",
+    "Repository": "Repository: https://github.com/tensorflow/tensorflow",
+    "Website": "Website: https://www.tensorflow.org/"
+  },
+  {
+    "Project": "freeCodeCamp",
+    "Description": "Code learning platform",
+    "Repository": "Repository: https://github.com/freeCodeCamp/freeCodeCamp",
+    "Website": "Website: https://www.freecodecamp.org/"
+  },
+  {
+    "Project": "Space Station 13",
+    "Description": "A round-based roleplaying game",
+    "Repository": "Repository: https://github.com/tgstation/tgstation",
+    "Website": "Website: https://www.tgstation13.org/"
+  },
+  {
+    "Project": "Apple Swift",
+    "Description": "Apple’s programming language",
+    "Repository": "Repository: https://github.com/apple/swift",
+    "Website": "Website: https://swift.org/"
+  },
+  {
+    "Project": "Elasticsearch",
+    "Description": "A search engine",
+    "Repository": "Repository: https://github.com/elastic/elasticsearch",
+    "Website": "Website: https://www.elastic.co/products/elasticsearch"
+  },
+  {
+    "Project": "Moby",
+    "Description": "An open framework to assemble specialized container systems",
+    "Repository": "Repository: https://github.com/moby/moby",
+    "Website": "Website: https://mobyproject.org/"
+  },
+  {
+    "Project": "CockroachDB",
+    "Description": "A cloud-native SQL database",
+    "Repository": "Repository: https://github.com/cockroachdb/cockroach",
+    "Website": "Website: https://www.cockroachlabs.com/"
+  },
+  {
+    "Project": "Cydia Compatibility Checker",
+    "Description": "A compatibility checker for Cydia — a package manager for iOS jailbroken devices",
+    "Repository": "Repository: https://github.com/jlippold/tweakCompatible",
+    "Website": "Website: https://jlippold.github.io/tweakCompatible/"
+  },
+  {
+    "Project": "Servo",
+    "Description": "A web browser engine",
+    "Repository": "Repository: https://github.com/servo/servo",
+    "Website": "Website: https://servo.org/"
+  },
+  {
+    "Project": "Google Flutter",
+    "Description": "Google’s mobile app SDK to create interfaces for iOS and Android",
+    "Repository": "Repository: https://github.com/flutter/flutter",
+    "Website": "Website: https://flutter.dev/"
+  },
+  {
+    "Project": "macOS Homebrew Package Manager",
+    "Description": "Default formulae for the missing package manager for macOS",
+    "Repository": "Repository: https://github.com/homebrew/homebrew-core",
+    "Website": "Website: https://brew.sh/"
+  },
+  {
+    "Project": "Home Assistant",
+    "Description": "Home automation software",
+    "Repository": "Repository: https://github.com/home-assistant/home-assistant",
+    "Website": "Website: https://www.home-assistant.io/"
+  },
+  {
+    "Project": "Microsoft .NET CoreCLR",
+    "Description": "Runtime for .NET Core",
+    "Repository": "Repository: https://github.com/dotnet/coreclr",
+    "Website": "Website: https://docs.microsoft.com/en-us/dotnet/core/"
+  },
+  {
+    "Project": "CocoaPods Specifications",
+    "Description": "Specifications for CocoaPods, a Cocoa dependency manager",
+    "Repository": "Repository: https://github.com/CocoaPods/Specs",
+    "Website": "Website: https://cocoapods.org/"
+  },
+  {
+    "Project": "Elastic Kibana",
+    "Description": "An analytics and search dashboard for Elasticsearch",
+    "Repository": "Repository: https://github.com/elastic/kibana",
+    "Website": "Website: https://www.elastic.co/products/kibana"
+  },
+  {
+    "Project": "Julia Language",
+    "Description": "A technical computing language",
+    "Repository": "Repository: https://github.com/JuliaLang/julia",
+    "Website": "Website: https://julialang.org/"
+  },
+  {
+    "Project": "Microsoft TypeScript",
+    "Description": "A superset of JavaScript that compiles to plain JavaScript",
+    "Repository": "Repository: https://github.com/Microsoft/TypeScript",
+    "Website": "Website: https://www.typescriptlang.org/"
+  },
+  {
+    "Project": "Joomla",
+    "Description": "A content management system",
+    "Repository": "Repository: https://github.com/joomla/joomla-cms",
+    "Website": "Website: https://www.joomla.org/"
+  },
+  {
+    "Project": "DefinitelyTyped",
+    "Description": "A repository for TypeScript type definitions",
+    "Repository": "Repository: https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "Website": "Website: http://definitelytyped.org/"
+  },
+  {
+    "Project": "Homebrew Cask",
+    "Description": "A CLI workflow for the administration of macOS applications distributed as binaries",
+    "Repository": "Repository: https://github.com/Homebrew/homebrew-cask",
+    "Website": "Website: https://brew.sh/"
+  },
+  {
+    "Project": "Ceph",
+    "Description": "A distributed object, block, and file storage platform",
+    "Repository": "Repository: https://github.com/ceph/ceph",
+    "Website": "Website: https://ceph.com/"
+  },
+  {
+    "Project": "Go",
+    "Description": "Programming language",
+    "Repository": "Repository: https://github.com/golang/go",
+    "Website": "Website: https://golang.org/"
+  },
+  {
+    "Project": "AMP HTML Builder",
+    "Description": "A way to build pages for Google AMP",
+    "Repository": "Repository: https://github.com/ampproject/amphtml",
+    "Website": "Website: https://amp.dev/"
+  },
+  {
+    "Project": "Open edX",
+    "Description": "An online education platform",
+    "Repository": "Repository: https://github.com/edx/edx-platform",
+    "Website": "Website: https://open.edx.org/"
+  },
+  {
+    "Project": "Pandas",
+    "Description": "A data analysis and manipulation library for Python",
+    "Repository": "Repository: https://github.com/pandas-dev/pandas",
+    "Website": "Website: https://pandas.pydata.org/"
+  },
+  {
+    "Project": "Istio",
+    "Description": "A platform to manage microservices",
+    "Repository": "Repository: https://github.com/istio/istio",
+    "Website": "Website: https://istio.io/"
+  },
+  {
+    "Project": "ManageIQ",
+    "Description": "A containers, virtual machines, networks, and storage management platform",
+    "Repository": "Repository: https://github.com/ManageIQ/manageiq",
+    "Website": "Website: http://manageiq.org/"
+  },
+  {
+    "Project": "Godot Engine",
+    "Description": "A multi-platform 2D and 3D game engine",
+    "Repository": "Repository: https://github.com/godotengine/godot",
+    "Website": "Website: https://godotengine.org/"
+  },
+  {
+    "Project": "Gentoo Repository Mirror",
+    "Description": "A Gentoo ebuild repository mirror",
+    "Repository": "Repository: https://github.com/gentoo/gentoo",
+    "Website": "Website: https://www.gentoo.org/"
+  },
+  {
+    "Project": "Odoo",
+    "Description": "A suite of web based open source business apps",
+    "Repository": "Repository: https://github.com/odoo/odoo",
+    "Website": "Website: https://www.odoo.com/"
+  },
+  {
+    "Project": "Azure Documentation",
+    "Description": "Documentation of Microsoft Azure",
+    "Repository": "Repository: https://github.com/MicrosoftDocs/azure-docs",
+    "Website": "Website: https://docs.microsoft.com/azure"
+  },
+  {
+    "Project": "Magento",
+    "Description": "An eCommerce platform",
+    "Repository": "Repository: https://github.com/magento/magento2",
+    "Website": "Website: https://magento.com/"
+  },
+  {
+    "Project": "Saltstack",
+    "Description": "Software to automate the management and configuration of any infrastructure or application at scale",
+    "Repository": "Repository: https://github.com/saltstack/salt",
+    "Website": "Website: https://www.saltstack.com/"
+  },
+  {
+    "Project": "AdGuard Filters",
+    "Description": "Ad blocking filters for AdGuard",
+    "Repository": "Repository: https://github.com/AdguardTeam/AdguardFilters",
+    "Website": "Website: https://adguard.com/en/welcome.html"
+  },
+  {
+    "Project": "Symfony",
+    "Description": "A PHP framework",
+    "Repository": "Repository: https://github.com/symfony/symfony",
+    "Website": "Website: https://symfony.com/"
+  },
+  {
+    "Project": "CMS Software for the Large Hadron Collider",
+    "Description": "Particle detector software components for CERN’s Large Hadron Collider",
+    "Repository": "Repository: https://github.com/cms-sw/cmssw",
+    "Website": "Website: http://cms-sw.github.io/"
+  },
+  {
+    "Project": "Red Hat OpenShift",
+    "Description": "OpenShift installation and configuration management",
+    "Repository": "Repository: https://github.com/openshift/openshift-ansible",
+    "Website": "Website: https://www.openshift.com/"
+  },
+  {
+    "Project": "ownCloud",
+    "Description": "Personal cloud software",
+    "Repository": "Repository: https://github.com/owncloud/core",
+    "Website": "Website: https://owncloud.org/"
+  },
+  {
+    "Project": "gRPC",
+    "Description": "A remote procedure call (RPC) framework",
+    "Repository": "Repository: https://github.com/grpc/grpc",
+    "Website": "Website: https://grpc.io/"
+  },
+  {
+    "Project": "Liferay",
+    "Description": "An enterprise web platform",
+    "Repository": "Repository: https://github.com/brianchandotcom/liferay-portal",
+    "Website": "Website: https://www.liferay.com/"
+  },
+  {
+    "Project": "CommCare HQ",
+    "Description": "A mobile data collection platform",
+    "Repository": "Repository: https://github.com/dimagi/commcare-hq",
+    "Website": "Website: https://www.commcarehq.org/"
+  },
+  {
+    "Project": "WordPress Gutenberg",
+    "Description": "An editor plugin for WordPress",
+    "Repository": "Repository: https://github.com/WordPress/gutenberg",
+    "Website": "Website: https://wordpress.org/gutenberg/"
+  },
+  {
+    "Project": "PyTorch",
+    "Description": "A Python package for Tensor computation and deep neural networks",
+    "Repository": "Repository: https://github.com/pytorch/pytorch",
+    "Website": "Website: https://pytorch.org/"
+  },
+  {
+    "Project": "Kubernetes Test Infrastructure",
+    "Description": "A test-infra repository for Kubernetes",
+    "Repository": "Repository: https://github.com/kubernetes/test-infra",
+    "Website": "Website: https://kubernetes.io/"
+  },
+  {
+    "Project": "Keybase",
+    "Description": "Keybase client repository",
+    "Repository": "Repository: https://github.com/keybase/client",
+    "Website": "Website: https://keybase.io/"
+  },
+  {
+    "Project": "Facebook React",
+    "Description": "A JavaScript library for building user interfaces",
+    "Repository": "Repository: https://github.com/facebook/react",
+    "Website": "Website: https://reactjs.org/"
+  },
+  {
+    "Project": "Code.org",
+    "Description": "Code learning resource",
+    "Repository": "Repository: https://github.com/code-dot-org/code-dot-org",
+    "Website": "Website: https://code.org/"
+  },
+  {
+    "Project": "Bitcoin Core",
+    "Description": "Bitcoin client software",
+    "Repository": "Repository: https://github.com/bitcoin/bitcoin",
+    "Website": "Website: https://bitcoincore.org/"
+  },
+  {
+    "Project": "Arm Mbed OS",
+    "Description": "A platform operating system for the Internet of Things",
+    "Repository": "Repository: https://github.com/ARMmbed/mbed-os",
+    "Website": "Website: https://www.mbed.com"
+  },
+  {
+    "Project": "scikit-learn",
+    "Description": "A Python module for machine learning",
+    "Repository": "Repository: https://github.com/scikit-learn/scikit-learn",
+    "Website": "Website: https://scikit-learn.org"
+  },
+  {
+    "Project": "Nextcloud",
+    "Description": "A self-hosted productivity platform",
+    "Repository": "Repository: https://github.com/nextcloud/server",
+    "Website": "Website: https://nextcloud.com/"
+  },
+  {
+    "Project": "Helm Charts",
+    "Description": "A curated list of applications for Kubernetes",
+    "Repository": "Repository: https://github.com/helm/charts",
+    "Website": "Website: https://kubernetes.io/"
+  },
+  {
+    "Project": "Terraform",
+    "Description": "An infrastructure management tool",
+    "Repository": "Repository: https://github.com/hashicorp/terraform",
+    "Website": "Website: https://www.terraform.io/"
+  },
+  {
+    "Project": "Ant Design",
+    "Description": "A UI design language",
+    "Repository": "Repository: https://github.com/ant-design/ant-design",
+    "Website": "Website: https://ant.design/"
+  },
+  {
+    "Project": "Phalcon Framework Documentation",
+    "Description": "Documentation for Phalcon, a PHP framework",
+    "Repository": "Repository: https://github.com/phalcon/docs",
+    "Website": "Website: https://docs.phalconphp.com"
+  },
+  {
+    "Project": "Documentation for CMS Software for the Large Hadron Collider",
+    "Description": "Documentation for CMS Software for CERN’s Large Hadron Collider",
+    "Repository": "Repository: https://github.com/cms-sw/cms-sw.github.io",
+    "Website": "Website: http://cms-sw.github.io/"
+  },
+  {
+    "Project": "Apache Kafka Mirror",
+    "Description": "A mirror for Apache Kafka, a distributed streaming platform",
+    "Repository": "Repository: https://github.com/apache/kafka",
+    "Website": "Website: https://kafka.apache.org/"
+  },
+  {
+    "Project": "Electron",
+    "Description": "A framework to write cross-platform desktop applications using JavaScript, HTML and CSS",
+    "Repository": "Repository: https://github.com/electron/electron",
+    "Website": "Website: https://electronjs.org/"
+  },
+  {
+    "Project": "Zephyr Project",
+    "Description": "A real-time operating system",
+    "Repository": "Repository: https://github.com/zephyrproject-rtos/zephyr",
+    "Website": "Website: https://www.zephyrproject.org/"
+  },
+  {
+    "Project": "The web-platform-tests Project",
+    "Description": "A cross-browser testsuite for the Web-platform stack",
+    "Repository": "Repository: https://github.com/web-platform-tests/wpt",
+    "Website": "Website: https://www.w3.org/"
+  },
+  {
+    "Project": "Marlin Firmware",
+    "Description": "Optimized firmware for RepRap 3D printers based on the Arduino platform",
+    "Repository": "Repository: https://github.com/MarlinFirmware/Marlin",
+    "Website": "Website: http://marlinfw.org/"
+  },
+  {
+    "Project": "Apache MXNet",
+    "Description": "A library for deep learning",
+    "Repository": "Repository: https://github.com/apache/incubator-mxnet",
+    "Website": "Website: https://mxnet.apache.org/"
+  },
+  {
+    "Project": "Apache Beam",
+    "Description": "A unified programming model",
+    "Repository": "Repository: https://github.com/apache/beam",
+    "Website": "Website: https://beam.apache.org/"
+  },
+  {
+    "Project": "Fastlane",
+    "Description": "A build and release automaton for iOS and Android apps",
+    "Repository": "Repository: https://github.com/fastlane/fastlane",
+    "Website": "Website: https://fastlane.tools/"
+  },
+  {
+    "Project": "Kubernetes Website and Documentation",
+    "Description": "A repository for the Kubernetes website and documentation",
+    "Repository": "Repository: https://github.com/kubernetes/website",
+    "Website": "Website: https://kubernetes.io"
+  },
+  {
+    "Project": "Ruby on Rails",
+    "Description": "A web-application framework",
+    "Repository": "Repository: https://github.com/rails/rails",
+    "Website": "Website: https://rubyonrails.org/"
+  },
+  {
+    "Project": "Zulip",
+    "Description": "Team chat software",
+    "Repository": "Repository: https://github.com/zulip/zulip",
+    "Website": "Website: https://zulipchat.com/"
+  },
+  {
+    "Project": "Laravel",
+    "Description": "A web application framework",
+    "Repository": "Repository: https://github.com/laravel/framework",
+    "Website": "Website: https://laravel.com/"
+  },
+  {
+    "Project": "Baidu PaddlePaddle",
+    "Description": "Baidu’s deep learning framework",
+    "Repository": "Repository: https://github.com/PaddlePaddle/Paddle",
+    "Website": "Website: http://www.paddlepaddle.org/"
+  },
+  {
+    "Project": "Gatsby",
+    "Description": "A web application framework",
+    "Repository": "Repository: https://github.com/gatsbyjs/gatsby",
+    "Website": "Website: https://www.gatsbyjs.org/"
+  },
+  {
+    "Project": "Rust Crate Registry",
+    "Description": "Rust’s community package registry",
+    "Repository": "Repository: https://github.com/rust-lang/crates.io-index",
+    "Website": "Website: https://crates.io/"
+  },
+  {
+    "Project": "Nintendo 3DS Custom Firmware",
+    "Description": "A complete guide to 3DS custom firmware",
+    "Repository": "Repository: https://github.com/hacks-guide/Guide_3DS",
+    "Website": "Website: https://3ds.hacks.guide/"
+  },
+  {
+    "Project": "TiDB",
+    "Description": "A NewSQL database",
+    "Repository": "Repository: https://github.com/pingcap/tidb",
+    "Website": "Website: https://pingcap.com"
+  },
+  {
+    "Project": "Angular CLI",
+    "Description": "CLI tool for Angular, a Google web application framework",
+    "Repository": "Repository: https://github.com/angular/angular-cli",
+    "Website": "Website: https://cli.angular.io/"
+  },
+  {
+    "Project": "MAPS.ME",
+    "Description": "Offline OpenStreetMap maps for iOS and Android",
+    "Repository": "Repository: https://github.com/mapsme/omim",
+    "Website": "Website: https://maps.me/"
+  },
+  {
+    "Project": "Eclipse Che",
+    "Description": "A cloud IDE for Eclipse",
+    "Repository": "Repository: https://github.com/eclipse/che",
+    "Website": "Website: http://www.eclipse.org/che/"
+  },
+  {
+    "Project": "Brave Browser",
+    "Description": "A browser with native BAT cryptocurrency",
+    "Repository": "Repository: https://github.com/brave/browser-laptop",
+    "Website": "Website: https://www.brave.com/"
+  },
+  {
+    "Project": "Patchwork",
+    "Description": "A repository to learn Git",
+    "Repository": "Repository: https://github.com/jlord/patchwork",
+    "Website": "Website: http://jlord.us/patchwork/"
+  },
+  {
+    "Project": "Angular Material",
+    "Description": "Component infrastructure and Material Design components for Angular, a Google web application framework",
+    "Repository": "Repository: https://github.com/angular/components",
+    "Website": "Website: https://material.angular.io/"
+  },
+  {
+    "Project": "Python",
+    "Description": "Programming language",
+    "Repository": "Repository: https://github.com/python/cpython",
+    "Website": "Website: https://www.python.org/"
+  },
+  {
+    "Project": "Space Station 13",
+    "Description": "A round-based roleplaying game",
+    "Repository": "Repository: https://github.com/vgstation-coders/vgstation13",
+    "Website": "Website: http://ss13.moe/"
+  },
+  {
+    "Project": "Cataclysm: Dark Days Ahead",
+    "Description": "A turn-based survival game",
+    "Repository": "Repository: https://github.com/CleverRaven/Cataclysm-DDA",
+    "Website": "Website: http://cataclysmdda.org/"
+  },
+  {
+    "Project": "Material-UI",
+    "Description": "React components that implement Google’s Material Design",
+    "Repository": "Repository: https://github.com/mui-org/material-ui",
+    "Website": "Website: https://material-ui.com/"
+  },
+  {
+    "Project": "Ionic",
+    "Description": "A Progressive Web Apps development framework",
+    "Repository": "Repository: https://github.com/ionic-team/ionic",
+    "Website": "Website: https://ionicframework.com/"
+  },
+  {
+    "Project": "Oppia",
+    "Description": "A tool for collaboratively building interactive lessons",
+    "Repository": "Repository: https://github.com/oppia/oppia",
+    "Website": "Website: https://www.oppia.org"
+  },
+  {
+    "Project": "Alluxio",
+    "Description": "A virtual distributed storage system",
+    "Repository": "Repository: https://github.com/Alluxio/alluxio",
+    "Website": "Website: https://www.alluxio.io/"
+  },
+  {
+    "Project": "XX Net",
+    "Description": "A Chinese web proxy and anti-censorship tool",
+    "Repository": "Repository: https://github.com/XX-net/XX-Net",
+    "Website": "Website: None"
+  },
+  {
+    "Project": "Microsoft .NET CLI",
+    "Description": "A CLI tool for .NET",
+    "Repository": "Repository: https://github.com/dotnet/cli",
+    "Website": "Website: https://docs.microsoft.com/en-us/dotnet/core/tools/"
+  }
+]

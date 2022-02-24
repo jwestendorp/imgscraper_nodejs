@@ -1,0 +1,2546 @@
+[
+  {
+    "project": "Google Kubernetes",
+    "description": "Container scheduling and management",
+    "repository": "https://github.com/kubernetes/kubernetes",
+    "website": "https://kubernetes.io/",
+    "contributers": []
+  },
+  {
+    "project": "Apache Spark",
+    "description": "A unified analytics engine for large-scale data processing",
+    "repository": "https://github.com/apache/spark",
+    "website": "http://spark.apache.org/",
+    "contributers": [
+      {
+        "name": "pwendell",
+        "email": "pwendell@gmail.com"
+      },
+      {
+        "name": "cloud-fan",
+        "email": "wenchen@databricks.com"
+      },
+      {
+        "name": "rxin",
+        "email": "rxin@databricks.com"
+      },
+      {
+        "name": "MaxGekk",
+        "email": "max.gekk@gmail.com"
+      },
+      {
+        "name": "srowen",
+        "email": "srowen@gmail.com"
+      },
+      {
+        "name": "JoshRosen",
+        "email": "rosenville@gmail.com"
+      },
+      {
+        "name": "HyukjinKwon",
+        "email": "gurwls223@apache.org"
+      },
+      {
+        "name": "dongjoon-hyun",
+        "email": "dongjoon@apache.org"
+      }
+    ]
+  },
+  {
+    "project": "Microsoft Visual Studio Code",
+    "description": "A source-code editor",
+    "repository": "https://github.com/Microsoft/vscode",
+    "website": "https://code.visualstudio.com/",
+    "contributers": [
+      {
+        "name": "roblourens",
+        "email": "roblourens@gmail.com"
+      },
+      {
+        "name": "sandy081",
+        "email": "sasomava@microsoft.com"
+      },
+      {
+        "name": "rebornix",
+        "email": "penn.lv@gmail.com"
+      },
+      {
+        "name": "aeschli",
+        "email": "martinae@microsoft.com"
+      },
+      {
+        "name": "jrieken",
+        "email": "johannes.rieken@gmail.com"
+      },
+      {
+        "name": "bpasero",
+        "email": "benjpas@microsoft.com"
+      },
+      {
+        "name": "joaomoreno",
+        "email": "mail@joaomoreno.com"
+      },
+      {
+        "name": "alexdima",
+        "email": "alexdima@microsoft.com"
+      }
+    ]
+  },
+  {
+    "project": "NixOS Package Collection",
+    "description": "A collection of packages for the Nix package manager",
+    "repository": "https://github.com/NixOS/nixpkgs",
+    "website": "https://nixos.org",
+    "contributers": [
+      {
+        "name": "FRidh",
+        "email": "fridh@fridh.nl"
+      },
+      {
+        "name": "peti",
+        "email": "simons@cryp.to"
+      },
+      {
+        "name": "vcunat",
+        "email": "v@cunat.cz"
+      },
+      {
+        "name": "jtojnar",
+        "email": "jtojnar@gmail.com"
+      },
+      {
+        "name": "SuperSandro2000",
+        "email": "sandro.jaeckel@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Rust",
+    "description": "Programming language",
+    "repository": "https://github.com/rust-lang/rust",
+    "website": "https://www.rust-lang.org/",
+    "contributers": [
+      {
+        "name": "pcwalton",
+        "email": "pcwalton@mimiga.net"
+      },
+      {
+        "name": "nikomatsakis",
+        "email": "niko@alum.mit.edu"
+      },
+      {
+        "name": "Centril",
+        "email": "twingoow@gmail.com"
+      },
+      {
+        "name": "alexcrichton",
+        "email": "alex@alexcrichton.com"
+      },
+      {
+        "name": "JohnTitor",
+        "email": "jtitor@2k36.org"
+      },
+      {
+        "name": "Manishearth",
+        "email": "manishsmail@gmail.com"
+      },
+      {
+        "name": "GuillaumeGomez",
+        "email": "guillaume1.gomez@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Firehol IP Lists",
+    "description": "Blacklists for Firehol, a firewall builder",
+    "repository": "https://github.com/firehol/blocklist-ipsets",
+    "website": "https://iplists.firehol.org/",
+    "contributers": []
+  },
+  {
+    "project": "Red Hat OpenShift",
+    "description": "A community distribution of Kubernetes optimized for continuous application development and multi-tenant deployment",
+    "repository": "https://github.com/openshift/origin",
+    "website": "https://www.openshift.com/",
+    "contributers": [
+      {
+        "name": "juanvallejo",
+        "email": "juan.vallejo.12@cnu.edu"
+      },
+      {
+        "name": "smarterclayton",
+        "email": "ccoleman@redhat.com"
+      },
+      {
+        "name": "liggitt",
+        "email": "jordan@liggitt.net"
+      },
+      {
+        "name": "mfojtik",
+        "email": "mfojtik@hey.com"
+      },
+      {
+        "name": "stevekuznetsov",
+        "email": "skuznets@redhat.com"
+      }
+    ]
+  },
+  {
+    "project": "Ansible",
+    "description": "A deployment automation platform",
+    "repository": "https://github.com/ansible/ansible",
+    "website": "https://www.ansible.com/",
+    "contributers": [
+      {
+        "name": "mpdehaan",
+        "email": "michael@michaeldehaan.net"
+      },
+      {
+        "name": "jimi-c",
+        "email": "jimi@sngx.net"
+      },
+      {
+        "name": "jborean93",
+        "email": "jborean93@gmail.com"
+      },
+      {
+        "name": "sivel",
+        "email": "matt@sivel.net"
+      },
+      {
+        "name": "resmo",
+        "email": "mail@renemoser.net"
+      },
+      {
+        "name": "abadger",
+        "email": "a.badger@gmail.com"
+      },
+      {
+        "name": "dagwieers",
+        "email": "dag@wieers.com"
+      }
+    ]
+  },
+  {
+    "project": "Automattic WordPress Calypso",
+    "description": "A JavaScript and API powered front-end for WordPress.com",
+    "repository": "https://github.com/Automattic/wp-calypso",
+    "website": "https://developer.wordpress.com/calypso/",
+    "contributers": [
+      {
+        "name": "ockham",
+        "email": "ockham@raz.or.at"
+      },
+      {
+        "name": "retrofox",
+        "email": "rdsuarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Microsoft .NET CoreFX",
+    "description": "Foundational class libraries for .NET Core",
+    "repository": "https://github.com/dotnet/corefx",
+    "website": "https://docs.microsoft.com/en-us/do",
+    "contributers": [
+      {
+        "name": "mellinoe",
+        "email": "mellinoe@gmail.com"
+      },
+      {
+        "name": "JonHanna",
+        "email": "jon@hackcraft.net"
+      },
+      {
+        "name": "joperezr",
+        "email": "joperezr@microsoft.com"
+      },
+      {
+        "name": "ericstj",
+        "email": "ericstj@microsoft.com"
+      },
+      {
+        "name": "bartonjs",
+        "email": "jbarton@microsoft.com"
+      }
+    ]
+  },
+  {
+    "project": "Microsoft .NET Roslyn",
+    "description": ".NET compiler",
+    "repository": "https://github.com/dotnet/roslyn",
+    "website": "https://docs.microsoft.com/en-us/do",
+    "contributers": [
+      {
+        "name": "heejaechang",
+        "email": "heejaechang@outlook.com"
+      },
+      {
+        "name": "jasonmalinowski",
+        "email": "jason@jason-m.com"
+      },
+      {
+        "name": "jaredpar",
+        "email": "jaredpar@microsoft.com"
+      },
+      {
+        "name": "mavasani",
+        "email": "mavasani@microsoft.com"
+      },
+      {
+        "name": "JoeRobich",
+        "email": "joseph.robichaud@microsoft.com"
+      }
+    ]
+  },
+  {
+    "project": "Node.js",
+    "description": "A JavaScript runtime built on Chrome’s V8 JavaScript engine",
+    "repository": "https://github.com/nodejs/node",
+    "website": "https://nodejs.org/en/",
+    "contributers": [
+      {
+        "name": "indutny",
+        "email": "fedor@indutny.com"
+      },
+      {
+        "name": "isaacs",
+        "email": "i@izs.me"
+      },
+      {
+        "name": "BridgeAR",
+        "email": "ruben@bridgewater.de"
+      },
+      {
+        "name": "bnoordhuis",
+        "email": "info@bnoordhuis.nl"
+      },
+      {
+        "name": "targos",
+        "email": "targos@protonmail.com"
+      },
+      {
+        "name": "cjihrig",
+        "email": "cjihrig@gmail.com"
+      },
+      {
+        "name": "ry",
+        "email": "ry@tinyclouds.org"
+      },
+      {
+        "name": "jasnell",
+        "email": "jasnell@gmail.com"
+      },
+      {
+        "name": "Trott",
+        "email": "rtrott@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "TensorFlow",
+    "description": "Google’s machine learning framework",
+    "repository": "https://github.com/tensorflow/tensorflow",
+    "website": "https://www.tensorflow.org/",
+    "contributers": [
+      {
+        "name": "sanjoy",
+        "email": "sanjoy@playingwithpointers.com"
+      },
+      {
+        "name": "jpienaar",
+        "email": "jpienaar@google.com"
+      },
+      {
+        "name": "mrry",
+        "email": "derek.murray@gmail.com"
+      },
+      {
+        "name": "yongtang",
+        "email": "yong.tang.github@outlook.com"
+      },
+      {
+        "name": "mihaimaruseac",
+        "email": "mihaimaruseac@google.com"
+      }
+    ]
+  },
+  {
+    "project": "freeCodeCamp",
+    "description": "Code learning platform",
+    "repository": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "website": "https://www.freecodecamp.org/",
+    "contributers": [
+      {
+        "name": "SaintPeter",
+        "email": "rex.schrader@gmail.com"
+      },
+      {
+        "name": "Bouncey",
+        "email": "staylor1012@gmail.com"
+      },
+      {
+        "name": "benmcmahon100",
+        "email": "benmcmahon100@gmail.com"
+      },
+      {
+        "name": "ojeytonwilliams",
+        "email": "ojeytonwilliams@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Space Station 13",
+    "description": "A round-based roleplaying game",
+    "repository": "https://github.com/tgstation/tgstation",
+    "website": "https://www.tgstation13.org/",
+    "contributers": [
+      {
+        "name": "Rohesie",
+        "email": "rohesie@gmail.com"
+      },
+      {
+        "name": "optimumtact",
+        "email": "email@oranges.net.nz"
+      }
+    ]
+  },
+  {
+    "project": "Apple Swift",
+    "description": "Apple’s programming language",
+    "repository": "https://github.com/apple/swift",
+    "website": "https://swift.org/",
+    "contributers": [
+      {
+        "name": "jckarter",
+        "email": "jgroff@apple.com"
+      },
+      {
+        "name": "slavapestov",
+        "email": "sviatoslav.pestov@gmail.com"
+      },
+      {
+        "name": "xedin",
+        "email": "xedin@apache.org"
+      },
+      {
+        "name": "DougGregor",
+        "email": "dgregor@apple.com"
+      }
+    ]
+  },
+  {
+    "project": "Elasticsearch",
+    "description": "A search engine",
+    "repository": "https://github.com/elastic/elasticsearch",
+    "website": "https://www.elastic.co/products/elasticsear",
+    "contributers": [
+      {
+        "name": "kimchy",
+        "email": "kimchy@gmail.com"
+      },
+      {
+        "name": "rjernst",
+        "email": "ryan@iernst.net"
+      },
+      {
+        "name": "jasontedor",
+        "email": "jason@tedor.me"
+      },
+      {
+        "name": "cbuescher",
+        "email": "cbuescher@posteo.de"
+      },
+      {
+        "name": "martijnvg",
+        "email": "martijn.v.groningen@gmail.com"
+      },
+      {
+        "name": "s1monw",
+        "email": "simonw@apache.org"
+      },
+      {
+        "name": "nik9000",
+        "email": "nik9000@gmail.com"
+      },
+      {
+        "name": "dadoonet",
+        "email": "david@pilato.fr"
+      }
+    ]
+  },
+  {
+    "project": "Moby",
+    "description": "An open framework to assemble specialized container systems",
+    "repository": "https://github.com/moby/moby",
+    "website": "https://mobyproject.org/",
+    "contributers": [
+      {
+        "name": "vieux",
+        "email": "victorvieux@gmail.com"
+      },
+      {
+        "name": "crosbymichael",
+        "email": "michael@thepasture.io"
+      },
+      {
+        "name": "cpuguy83",
+        "email": "cpuguy83@gmail.com"
+      },
+      {
+        "name": "vdemeester",
+        "email": "vdemeest@redhat.com"
+      }
+    ]
+  },
+  {
+    "project": "CockroachDB",
+    "description": "A cloud-native SQL database",
+    "repository": "https://github.com/cockroachdb/cockroach",
+    "website": "https://www.cockroachlabs.com/",
+    "contributers": [
+      {
+        "name": "andreimatei",
+        "email": "andreimatei1@gmail.com"
+      },
+      {
+        "name": "tbg",
+        "email": "tobias.schottdorf@gmail.com"
+      },
+      {
+        "name": "tamird",
+        "email": "tamird@gmail.com"
+      },
+      {
+        "name": "nvanbenschoten",
+        "email": "nvanbenschoten@gmail.com"
+      },
+      {
+        "name": "petermattis",
+        "email": "petermattis@gmail.com"
+      },
+      {
+        "name": "jordanlewis",
+        "email": "jordanthelewis@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Cydia Compatibility Checker",
+    "description": "A compatibility checker for Cydia — a package manager for iOS jailbroken devices",
+    "repository": "https://github.com/jlippold/tweakCompatible",
+    "website": "https://jlippold.github.io/tweakCompatible/",
+    "contributers": []
+  },
+  {
+    "project": "Servo",
+    "description": "A web browser engine",
+    "repository": "https://github.com/servo/servo",
+    "website": "https://servo.org/",
+    "contributers": [
+      {
+        "name": "pcwalton",
+        "email": "pcwalton@mimiga.net"
+      },
+      {
+        "name": "jdm",
+        "email": "josh@joshmatthews.net"
+      },
+      {
+        "name": "emilio",
+        "email": "emilio@crisal.io"
+      },
+      {
+        "name": "Manishearth",
+        "email": "manishsmail@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Google Flutter",
+    "description": "Google’s mobile app SDK to create interfaces for iOS and Android",
+    "repository": "https://github.com/flutter/flutter",
+    "website": "https://flutter.dev/",
+    "contributers": [
+      {
+        "name": "Hixie",
+        "email": "ian@hixie.ch"
+      },
+      {
+        "name": "devoncarew",
+        "email": "devoncarew@gmail.com"
+      },
+      {
+        "name": "cbracken",
+        "email": "chris@bracken.jp"
+      },
+      {
+        "name": "jonahwilliams",
+        "email": "jonahwilliams@google.com"
+      },
+      {
+        "name": "engine-flutter-autoroll",
+        "email": "engine-flutter-autoroll@skia.org"
+      }
+    ]
+  },
+  {
+    "project": "macOS Homebrew Package Manager",
+    "description": "Default formulae for the missing package manager for macOS",
+    "repository": "https://github.com/homebrew/homebrew-core",
+    "website": "https://brew.sh/",
+    "contributers": [
+      {
+        "name": "adamv",
+        "email": "flangy@gmail.com"
+      },
+      {
+        "name": "fxcoudert",
+        "email": "fxcoudert@gmail.com"
+      },
+      {
+        "name": "MikeMcQuaid",
+        "email": "mike@mikemcquaid.com"
+      },
+      {
+        "name": "chenrui333",
+        "email": "rui@chenrui.dev"
+      }
+    ]
+  },
+  {
+    "project": "Home Assistant",
+    "description": "Home automation software",
+    "repository": "https://github.com/home-assistant/home-assistant",
+    "website": "https://www.home-assistant.io/",
+    "contributers": [
+      {
+        "name": "emontnemery",
+        "email": "erik@montnemery.com"
+      },
+      {
+        "name": "pvizeli",
+        "email": "pascal.vizeli@syshack.ch"
+      },
+      {
+        "name": "Danielhiversen",
+        "email": "mail@dahoiv.net"
+      },
+      {
+        "name": "balloob",
+        "email": "paulus@home-assistant.io"
+      },
+      {
+        "name": "MartinHjelmare",
+        "email": "marhje52@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Microsoft .NET CoreCLR",
+    "description": "Runtime for .NET Core",
+    "repository": "https://github.com/dotnet/coreclr",
+    "website": "https://docs.microsoft.com/en-us/dot",
+    "contributers": [
+      {
+        "name": "ViktorHofer",
+        "email": "viktor.hofer@microsoft.com"
+      },
+      {
+        "name": "danmoseley",
+        "email": "danmose@microsoft.com"
+      }
+    ]
+  },
+  {
+    "project": "CocoaPods Specifications",
+    "description": "Specifications for CocoaPods, a Cocoa dependency manager",
+    "repository": "https://github.com/CocoaPods/Specs",
+    "website": "https://cocoapods.org/",
+    "contributers": [
+      {
+        "name": "mparticle-automation",
+        "email": "developers@mparticle.com"
+      },
+      {
+        "name": "shang1219178163",
+        "email": "shang1219178163@gmail.com"
+      },
+      {
+        "name": "changsanjiang",
+        "email": "changsanjiang@gmail.com"
+      },
+      {
+        "name": "keith",
+        "email": "keithbsmiley@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Elastic Kibana",
+    "description": "An analytics and search dashboard for Elasticsearch",
+    "repository": "https://github.com/elastic/kibana",
+    "website": "https://www.elastic.co/products/kiba",
+    "contributers": [
+      {
+        "name": "spalger",
+        "email": "email@spalger.com"
+      }
+    ]
+  },
+  {
+    "project": "Julia Language",
+    "description": "A technical computing language",
+    "repository": "https://github.com/JuliaLang/julia",
+    "website": "https://julialang.org/",
+    "contributers": [
+      {
+        "name": "JeffBezanson",
+        "email": "jeff.bezanson@gmail.com"
+      },
+      {
+        "name": "tkelman",
+        "email": "tony@kelman.net"
+      },
+      {
+        "name": "StefanKarpinski",
+        "email": "stefan@karpinski.org"
+      },
+      {
+        "name": "yuyichao",
+        "email": "yyc1992@gmail.com"
+      },
+      {
+        "name": "vtjnash",
+        "email": "vtjnash+github@gmail.com"
+      },
+      {
+        "name": "staticfloat",
+        "email": "staticfloat@gmail.com"
+      },
+      {
+        "name": "timholy",
+        "email": "tim.holy@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Microsoft TypeScript",
+    "description": "A superset of JavaScript that compiles to plain JavaScript",
+    "repository": "https://github.com/Microsoft/TypeScript",
+    "website": "https://www.typescriptlang.org/",
+    "contributers": [
+      {
+        "name": "ahejlsberg",
+        "email": "andersh@microsoft.com"
+      },
+      {
+        "name": "vladima",
+        "email": "v2matveev@outlook.com"
+      },
+      {
+        "name": "weswigham",
+        "email": "wwigham@gmail.com"
+      },
+      {
+        "name": "rbuckton",
+        "email": "ron.buckton@microsoft.com"
+      }
+    ]
+  },
+  {
+    "project": "Joomla",
+    "description": "A content management system",
+    "repository": "https://github.com/joomla/joomla-cms",
+    "website": "https://www.joomla.org/",
+    "contributers": [
+      {
+        "name": "dextercowley",
+        "email": "dextercowley@gmail.com"
+      },
+      {
+        "name": "laoneo",
+        "email": "allon.moritz@digital-peak.com"
+      },
+      {
+        "name": "johanjanssens",
+        "email": "johan@janssens.me"
+      },
+      {
+        "name": "brianteeman",
+        "email": "brian@teeman.net"
+      },
+      {
+        "name": "mbabker",
+        "email": "michael.babker@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "DefinitelyTyped",
+    "description": "A repository for TypeScript type definitions",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "website": "http://definitelytyped.org/",
+    "contributers": [
+      {
+        "name": "horiuchi",
+        "email": "horiuchi.g@gmail.com"
+      },
+      {
+        "name": "armanio123",
+        "email": "armando.aguirre@microsoft.com"
+      }
+    ]
+  },
+  {
+    "project": "Homebrew Cask",
+    "description": "A CLI workflow for the administration of macOS applications distributed as binaries",
+    "repository": "https://github.com/Homebrew/homebrew-cask",
+    "website": "https://brew.sh/",
+    "contributers": [
+      {
+        "name": "suschizu",
+        "email": "brigitte@corecode.io"
+      },
+      {
+        "name": "ran-dall",
+        "email": "ran.dall@icloud.com"
+      },
+      {
+        "name": "rolandwalker",
+        "email": "walker@pobox.com"
+      },
+      {
+        "name": "MikeMcQuaid",
+        "email": "mike@mikemcquaid.com"
+      },
+      {
+        "name": "reitermarkus",
+        "email": "me@reitermark.us"
+      }
+    ]
+  },
+  {
+    "project": "Ceph",
+    "description": "A distributed object, block, and file storage platform",
+    "repository": "https://github.com/ceph/ceph",
+    "website": "https://ceph.com/",
+    "contributers": [
+      {
+        "name": "yehudasa",
+        "email": "yehuda@redhat.com"
+      },
+      {
+        "name": "rzarzynski",
+        "email": "rzarzyns@redhat.com"
+      },
+      {
+        "name": "liewegas",
+        "email": "sage@newdream.net"
+      },
+      {
+        "name": "sebastian-philipp",
+        "email": "sebastian@spawnhost.de"
+      },
+      {
+        "name": "tchaikov",
+        "email": "tchaikov@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Go",
+    "description": "Programming language",
+    "repository": "https://github.com/golang/go",
+    "website": "https://golang.org/",
+    "contributers": [
+      {
+        "name": "adg",
+        "email": "adg@golang.org"
+      },
+      {
+        "name": "rsc",
+        "email": "rsc@swtch.com"
+      },
+      {
+        "name": "randall77",
+        "email": "keithr@alum.mit.edu"
+      },
+      {
+        "name": "mdempsky",
+        "email": "matthew@dempsky.org"
+      },
+      {
+        "name": "ianlancetaylor",
+        "email": "ian@airs.com"
+      },
+      {
+        "name": "josharian",
+        "email": "josharian@gmail.com"
+      },
+      {
+        "name": "bradfitz",
+        "email": "brad@danga.com"
+      }
+    ]
+  },
+  {
+    "project": "AMP HTML Builder",
+    "description": "A way to build pages for Google AMP",
+    "repository": "https://github.com/ampproject/amphtml",
+    "website": "https://amp.dev/",
+    "contributers": [
+      {
+        "name": "erwinmombay",
+        "email": "erwin.mombay@gmail.com"
+      },
+      {
+        "name": "jridgewell",
+        "email": "justin+github@ridgewell.name"
+      },
+      {
+        "name": "renovate-bot",
+        "email": "renovate@whitesourcesoftware.com"
+      }
+    ]
+  },
+  {
+    "project": "Open edX",
+    "description": "An online education platform",
+    "repository": "https://github.com/edx/edx-platform",
+    "website": "https://open.edx.org/",
+    "contributers": [
+      {
+        "name": "cpennington",
+        "email": "calen.pennington@gmail.com"
+      },
+      {
+        "name": "VikParuchuri",
+        "email": "github@vikas.sh"
+      },
+      {
+        "name": "nasthagiri",
+        "email": "nasthagiri@gmail.com"
+      },
+      {
+        "name": "talbs",
+        "email": "hi.talbs@gmail.com"
+      },
+      {
+        "name": "singingwolfboy",
+        "email": "david@davidbaumgold.com"
+      },
+      {
+        "name": "nedbat",
+        "email": "ned@nedbatchelder.com"
+      }
+    ]
+  },
+  {
+    "project": "Pandas",
+    "description": "A data analysis and manipulation library for Python",
+    "repository": "https://github.com/pandas-dev/pandas",
+    "website": "https://pandas.pydata.org/",
+    "contributers": [
+      {
+        "name": "adamklein",
+        "email": "akleintek@gmail.com"
+      },
+      {
+        "name": "sinhrks",
+        "email": "sinhrks@gmail.com"
+      },
+      {
+        "name": "TomAugspurger",
+        "email": "tom.w.augspurger@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Istio",
+    "description": "A platform to manage microservices",
+    "repository": "https://github.com/istio/istio",
+    "website": "https://istio.io/",
+    "contributers": [
+      {
+        "name": "ayj",
+        "email": "jasonyoung@google.com"
+      },
+      {
+        "name": "ramaraochavali",
+        "email": "ramaraochavali@gmail.com"
+      },
+      {
+        "name": "nmittler",
+        "email": "nmittler@gmail.com"
+      },
+      {
+        "name": "costinm",
+        "email": "costin@apache.org"
+      },
+      {
+        "name": "hzxuzhonghu",
+        "email": "zhhxu2011@163.com"
+      },
+      {
+        "name": "istio-testing",
+        "email": "istio-testing-bot@google.com"
+      }
+    ]
+  },
+  {
+    "project": "ManageIQ",
+    "description": "A containers, virtual machines, networks, and storage management platform",
+    "repository": "https://github.com/ManageIQ/manageiq",
+    "website": "http://manageiq.org/",
+    "contributers": [
+      {
+        "name": "h-kataria",
+        "email": "hkataria@redhat.com"
+      },
+      {
+        "name": "Ladas",
+        "email": "lsmola@redhat.com"
+      },
+      {
+        "name": "gmcculloug",
+        "email": "gmccullo@redhat.com"
+      },
+      {
+        "name": "martinpovolny",
+        "email": "mpovolny@redhat.com"
+      },
+      {
+        "name": "chessbyte",
+        "email": "chessbyte@gmail.com"
+      },
+      {
+        "name": "bdunne",
+        "email": "brandondunne@hotmail.com"
+      },
+      {
+        "name": "agrare",
+        "email": "adam@grare.com"
+      },
+      {
+        "name": "kbrock",
+        "email": "keenan@thebrocks.net"
+      },
+      {
+        "name": "Fryguy",
+        "email": "fryguy9@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Godot Engine",
+    "description": "A multi-platform 2D and 3D game engine",
+    "repository": "https://github.com/godotengine/godot",
+    "website": "https://godotengine.org/",
+    "contributers": [
+      {
+        "name": "reduz",
+        "email": "reduzio@gmail.com"
+      },
+      {
+        "name": "vnen",
+        "email": "g@georgemarques.dev"
+      },
+      {
+        "name": "YeldhamDev",
+        "email": "michaelalexsander@protonmail.com"
+      },
+      {
+        "name": "Chaosus",
+        "email": "chaosus89@gmail.com"
+      },
+      {
+        "name": "pouleyKetchoupp",
+        "email": "pouleyKetchoup@gmail.com"
+      },
+      {
+        "name": "Calinou",
+        "email": "hugo.locurcio@hugo.pro"
+      },
+      {
+        "name": "akien-mga",
+        "email": "rverschelde@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Gentoo Repository Mirror",
+    "description": "A Gentoo ebuild repository mirror",
+    "repository": "https://github.com/gentoo/gentoo",
+    "website": "https://www.gentoo.org/",
+    "contributers": [
+      {
+        "name": "graaff",
+        "email": "hans@degraaff.org"
+      },
+      {
+        "name": "asarubbo",
+        "email": "ago@gentoo.org"
+      },
+      {
+        "name": "a17r",
+        "email": "andreas.sturmlechner@gmail.com"
+      },
+      {
+        "name": "aballier",
+        "email": "aballier@gentoo.org"
+      },
+      {
+        "name": "Whissi",
+        "email": "whissi@whissi.de"
+      },
+      {
+        "name": "thesamesam",
+        "email": "sam@gentoo.org"
+      },
+      {
+        "name": "trofi",
+        "email": "slyich@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Odoo",
+    "description": "A suite of web based open source business apps",
+    "repository": "https://github.com/odoo/odoo",
+    "website": "https://www.odoo.com/",
+    "contributers": [
+      {
+        "name": "nicolas-van",
+        "email": "nicolas.vanhoren@gmail.com"
+      },
+      {
+        "name": "xmo-odoo",
+        "email": "xmo@odoo.com"
+      }
+    ]
+  },
+  {
+    "project": "Azure Documentation",
+    "description": "Documentation of Microsoft Azure",
+    "repository": "https://github.com/MicrosoftDocs/azure-docs",
+    "website": "https://docs.microsoft.com/azure",
+    "contributers": [
+      {
+        "name": "Ja-Dunn",
+        "email": "v-jdunn@microsoft.com"
+      },
+      {
+        "name": "v-alje",
+        "email": "v-alje@microsoft.com"
+      },
+      {
+        "name": "Juliako",
+        "email": "juliako@microsoft.com"
+      }
+    ]
+  },
+  {
+    "project": "Magento",
+    "description": "An eCommerce platform",
+    "repository": "https://github.com/magento/magento2",
+    "website": "https://magento.com/",
+    "contributers": [
+      {
+        "name": "irenelagno",
+        "email": "ilagno@adobe.com"
+      },
+      {
+        "name": "rganin",
+        "email": "rganin@adobe.com"
+      },
+      {
+        "name": "sidolov",
+        "email": "sidolov@adobe.com"
+      },
+      {
+        "name": "BaDos",
+        "email": "korablev.b@gmail.com"
+      },
+      {
+        "name": "sivaschenko",
+        "email": "serg.ivashchenko@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Saltstack",
+    "description": "Software to automate the management and configuration of any infrastructure or application at scale",
+    "repository": "https://github.com/saltstack/salt",
+    "website": "https://www.saltstack.com/",
+    "contributers": [
+      {
+        "name": "thatch45",
+        "email": "thatch45@gmail.com"
+      },
+      {
+        "name": "nmadhok",
+        "email": "nmadhok@g.clemson.edu"
+      },
+      {
+        "name": "basepi",
+        "email": "colton.myers@gmail.com"
+      },
+      {
+        "name": "garethgreenaway",
+        "email": "gareth@saltstack.com"
+      },
+      {
+        "name": "whiteinge",
+        "email": "seth@eseth.com"
+      },
+      {
+        "name": "jfindlay",
+        "email": "justin@findlay.space"
+      },
+      {
+        "name": "s0undt3ch",
+        "email": "pedro@algarvio.me"
+      }
+    ]
+  },
+  {
+    "project": "AdGuard Filters",
+    "description": "Ad blocking filters for AdGuard",
+    "repository": "https://github.com/AdguardTeam/AdguardFilters",
+    "website": "https://adguard.com/en/welcome.html",
+    "contributers": [
+      {
+        "name": "Sergey-Lyapin",
+        "email": "sergeyl9pin@gmail.com"
+      },
+      {
+        "name": "Alex-302",
+        "email": "alex302@adguard.com"
+      }
+    ]
+  },
+  {
+    "project": "Symfony",
+    "description": "A PHP framework",
+    "repository": "https://github.com/symfony/symfony",
+    "website": "https://symfony.com/",
+    "contributers": [
+      {
+        "name": "webmozart",
+        "email": "bernhard.schussek@webmozarts.com"
+      },
+      {
+        "name": "Seldaek",
+        "email": "j.boggiano@seld.be"
+      },
+      {
+        "name": "fabpot",
+        "email": "fabien@symfony.com"
+      },
+      {
+        "name": "derrabus",
+        "email": "me@derrabus.de"
+      }
+    ]
+  },
+  {
+    "project": "CMS Software for the Large Hadron Collider",
+    "description": "Particle detector software components for CERN’s Large Hadron Collider",
+    "repository": "https://github.com/cms-sw/cmssw",
+    "website": "http://cms-sw.github.io/",
+    "contributers": [
+      {
+        "name": "vlimant",
+        "email": "jvlimant@caltech.edu"
+      },
+      {
+        "name": "mmusich",
+        "email": "marco.musich@cern.ch"
+      }
+    ]
+  },
+  {
+    "project": "Red Hat OpenShift",
+    "description": "OpenShift installation and configuration management",
+    "repository": "https://github.com/openshift/openshift-ansible",
+    "website": "https://www.openshift.com/",
+    "contributers": [
+      {
+        "name": "sdodson",
+        "email": "sdodson@redhat.com"
+      },
+      {
+        "name": "brenton",
+        "email": "brenton.leanhardt@gmail.com"
+      },
+      {
+        "name": "kwoodson",
+        "email": "kwoodson@redhat.com"
+      },
+      {
+        "name": "abutcher",
+        "email": "abutcher@redhat.com"
+      },
+      {
+        "name": "vrutkovs",
+        "email": "vrutkovs@redhat.com"
+      }
+    ]
+  },
+  {
+    "project": "ownCloud",
+    "description": "Personal cloud software",
+    "repository": "https://github.com/owncloud/core",
+    "website": "https://owncloud.org/",
+    "contributers": [
+      {
+        "name": "schiessle",
+        "email": "bjoern@schiessle.org"
+      },
+      {
+        "name": "icewind1991",
+        "email": "robin@icewind.nl"
+      },
+      {
+        "name": "LukasReschke",
+        "email": "lukas@statuscode.ch"
+      },
+      {
+        "name": "MorrisJobke",
+        "email": "hey@morrisjobke.de"
+      }
+    ]
+  },
+  {
+    "project": "gRPC",
+    "description": "A remote procedure call (RPC) framework",
+    "repository": "https://github.com/grpc/grpc",
+    "website": "https://grpc.io/",
+    "contributers": [
+      {
+        "name": "ncteisen",
+        "email": "ncteisen@gmail.com"
+      },
+      {
+        "name": "yang-g",
+        "email": "yangg@google.com"
+      },
+      {
+        "name": "murgatroid99",
+        "email": "michael.lumish@gmail.com"
+      },
+      {
+        "name": "ctiller",
+        "email": "craig.tiller@gmail.com"
+      },
+      {
+        "name": "yashykt",
+        "email": "yashykt@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Liferay",
+    "description": "An enterprise web platform",
+    "repository": "https://github.com/brianchandotcom/liferay-portal",
+    "website": "https://www.liferay.com/",
+    "contributers": []
+  },
+  {
+    "project": "CommCare HQ",
+    "description": "A mobile data collection platform",
+    "repository": "https://github.com/dimagi/commcare-hq",
+    "website": "https://www.commcarehq.org/",
+    "contributers": [
+      {
+        "name": "millerdev",
+        "email": "millerdev@gmail.com"
+      },
+      {
+        "name": "czue",
+        "email": "cory@coryzue.com"
+      },
+      {
+        "name": "mkangia",
+        "email": "mkangia@dimagi.com"
+      }
+    ]
+  },
+  {
+    "project": "WordPress Gutenberg",
+    "description": "An editor plugin for WordPress",
+    "repository": "https://github.com/WordPress/gutenberg",
+    "website": "https://wordpress.org/gutenberg/",
+    "contributers": []
+  },
+  {
+    "project": "PyTorch",
+    "description": "A Python package for Tensor computation and deep neural networks",
+    "repository": "https://github.com/pytorch/pytorch",
+    "website": "https://pytorch.org/",
+    "contributers": [
+      {
+        "name": "Yangqing",
+        "email": "jiayq@eecs.berkeley.edu"
+      },
+      {
+        "name": "jerryzh168",
+        "email": "jerryzh168@gmail.com"
+      },
+      {
+        "name": "apaszke",
+        "email": "adam.paszke@gmail.com"
+      },
+      {
+        "name": "ezyang",
+        "email": "ezyang@mit.edu"
+      }
+    ]
+  },
+  {
+    "project": "Kubernetes Test Infrastructure",
+    "description": "A test-infra repository for Kubernetes",
+    "repository": "https://github.com/kubernetes/test-infra",
+    "website": "https://kubernetes.io/",
+    "contributers": [
+      {
+        "name": "krzyzacy",
+        "email": "senlu@google.com"
+      },
+      {
+        "name": "rmmh",
+        "email": "hitchmanr@gmail.com"
+      },
+      {
+        "name": "Katharine",
+        "email": "katharine@kathar.in"
+      },
+      {
+        "name": "cjwagner",
+        "email": "colew@google.com"
+      },
+      {
+        "name": "stevekuznetsov",
+        "email": "skuznets@redhat.com"
+      },
+      {
+        "name": "BenTheElder",
+        "email": "bentheelder@google.com"
+      },
+      {
+        "name": "spiffxp",
+        "email": "spiffxp@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Keybase",
+    "description": "Keybase client repository",
+    "repository": "https://github.com/keybase/client",
+    "website": "https://keybase.io/",
+    "contributers": [
+      {
+        "name": "cjb",
+        "email": "chris@printf.net"
+      },
+      {
+        "name": "maxtaco",
+        "email": "max@keybase.io"
+      },
+      {
+        "name": "songgao",
+        "email": "song@gao.io"
+      },
+      {
+        "name": "gabriel",
+        "email": "gabrielh@gmail.com"
+      },
+      {
+        "name": "MarcoPolo",
+        "email": "git@marcopolo.io"
+      }
+    ]
+  },
+  {
+    "project": "Facebook React",
+    "description": "A JavaScript library for building user interfaces",
+    "repository": "https://github.com/facebook/react",
+    "website": "https://reactjs.org/",
+    "contributers": [
+      {
+        "name": "sophiebits",
+        "email": "hi@sophiebits.com"
+      },
+      {
+        "name": "sebmarkbage",
+        "email": "sebastian@calyptus.eu"
+      },
+      {
+        "name": "acdlite",
+        "email": "hi@andrewclark.io"
+      },
+      {
+        "name": "zpao",
+        "email": "paul@oshannessy.com"
+      },
+      {
+        "name": "vjeux",
+        "email": "vjeuxx@gmail.com"
+      },
+      {
+        "name": "chenglou",
+        "email": "chenglou92@gmail.com"
+      },
+      {
+        "name": "gaearon",
+        "email": "dan.abramov@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Code.org",
+    "description": "Code learning resource",
+    "repository": "https://github.com/code-dot-org/code-dot-org",
+    "website": "https://code.org/",
+    "contributers": [
+      {
+        "name": "tanyaparker",
+        "email": "tanyacparker@gmail.com"
+      },
+      {
+        "name": "islemaster",
+        "email": "bradley.c.buchanan@gmail.com"
+      },
+      {
+        "name": "joshlory",
+        "email": "josh.lory@code.org"
+      },
+      {
+        "name": "dmcavoy",
+        "email": "dani@code.org"
+      },
+      {
+        "name": "madelynkasula",
+        "email": "madelynkasula@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Bitcoin Core",
+    "description": "Bitcoin client software",
+    "repository": "https://github.com/bitcoin/bitcoin",
+    "website": "https://bitcoincore.org/",
+    "contributers": [
+      {
+        "name": "gavinandresen",
+        "email": "gavinandresen@gmail.com"
+      },
+      {
+        "name": "sipa",
+        "email": "pieter@wuille.net"
+      },
+      {
+        "name": "fanquake",
+        "email": "fanquake@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Arm Mbed OS",
+    "description": "A platform operating system for the Internet of Things",
+    "repository": "https://github.com/ARMmbed/mbed-os",
+    "website": "https://www.mbed.com",
+    "contributers": [
+      {
+        "name": "bogdanm",
+        "email": "bogdan.marinescu@gmail.com"
+      },
+      {
+        "name": "ccli8",
+        "email": "ccli8@nuvoton.com"
+      },
+      {
+        "name": "theotherjimmy",
+        "email": "jimmy.brisson@arm.com"
+      },
+      {
+        "name": "sg-",
+        "email": "sam.w.grove@gmail.com"
+      },
+      {
+        "name": "paul-szczepanek-arm",
+        "email": "paul.szczepanek@arm.com"
+      },
+      {
+        "name": "0xc0170",
+        "email": "martin.kojtal@arm.com"
+      }
+    ]
+  },
+  {
+    "project": "scikit-learn",
+    "description": "A Python module for machine learning",
+    "repository": "https://github.com/scikit-learn/scikit-learn",
+    "website": "https://scikit-learn.org",
+    "contributers": [
+      {
+        "name": "glouppe",
+        "email": "g.louppe@gmail.com"
+      },
+      {
+        "name": "pprett",
+        "email": "peter.prettenhofer@gmail.com"
+      },
+      {
+        "name": "vene",
+        "email": "vlad@vene.ro"
+      },
+      {
+        "name": "amueller",
+        "email": "t3kcit+githubspam@gmail.com"
+      },
+      {
+        "name": "thomasjpfan",
+        "email": "thomasjpfan@gmail.com"
+      },
+      {
+        "name": "ogrisel",
+        "email": "olivier.grisel@ensta.org"
+      },
+      {
+        "name": "agramfort",
+        "email": "alexandre.gramfort@m4x.org"
+      }
+    ]
+  },
+  {
+    "project": "Nextcloud",
+    "description": "A self-hosted productivity platform",
+    "repository": "https://github.com/nextcloud/server",
+    "website": "https://nextcloud.com/",
+    "contributers": [
+      {
+        "name": "MorrisJobke",
+        "email": "hey@morrisjobke.de"
+      },
+      {
+        "name": "schiessle",
+        "email": "bjoern@schiessle.org"
+      },
+      {
+        "name": "LukasReschke",
+        "email": "lukas@statuscode.ch"
+      },
+      {
+        "name": "icewind1991",
+        "email": "robin@icewind.nl"
+      }
+    ]
+  },
+  {
+    "project": "Helm Charts",
+    "description": "A curated list of applications for Kubernetes",
+    "repository": "https://github.com/helm/charts",
+    "website": "https://kubernetes.io/",
+    "contributers": []
+  },
+  {
+    "project": "Terraform",
+    "description": "An infrastructure management tool",
+    "repository": "https://github.com/hashicorp/terraform",
+    "website": "https://www.terraform.io/",
+    "contributers": [
+      {
+        "name": "mitchellh",
+        "email": "mitchell.hashimoto@gmail.com"
+      },
+      {
+        "name": "radeksimko",
+        "email": "radek.simko@gmail.com"
+      },
+      {
+        "name": "jbardin",
+        "email": "j.bardin@gmail.com"
+      },
+      {
+        "name": "stack72",
+        "email": "public@paulstack.co.uk"
+      }
+    ]
+  },
+  {
+    "project": "Ant Design",
+    "description": "A UI design language",
+    "repository": "https://github.com/ant-design/ant-design",
+    "website": "https://ant.design/",
+    "contributers": [
+      {
+        "name": "jljsj33",
+        "email": "155259966@qq.com"
+      },
+      {
+        "name": "yiminghe",
+        "email": "yiminghe@gmail.com"
+      },
+      {
+        "name": "hengkx",
+        "email": "ycxzhkx@gmail.com"
+      },
+      {
+        "name": "yesmeck",
+        "email": "yesmeck@gmail.com"
+      },
+      {
+        "name": "afc163",
+        "email": "afc163@gmail.com"
+      },
+      {
+        "name": "xrkffgg",
+        "email": "xrkffgg@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Phalcon Framework Documentation",
+    "description": "Documentation for Phalcon, a PHP framework",
+    "repository": "https://github.com/phalcon/docs",
+    "website": "https://docs.phalconphp.com",
+    "contributers": [
+      {
+        "name": "beliarh",
+        "email": "art.beliarh@gmail.com"
+      },
+      {
+        "name": "SidRoberts",
+        "email": "sid@sidroberts.co.uk"
+      },
+      {
+        "name": "ruudboon",
+        "email": "ruudboon@php.net"
+      },
+      {
+        "name": "CameronHall",
+        "email": "me@chall.id.au"
+      },
+      {
+        "name": "sergeyklay",
+        "email": "serghei@airslate.com"
+      },
+      {
+        "name": "Arhell",
+        "email": "isychevskyi@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Documentation for CMS Software for the Large Hadron Collider",
+    "description": "Documentation for CMS Software for CERN’s Large Hadron Collider",
+    "repository": "https://github.com/cms-sw/cms-sw.github.io",
+    "website": "http://cms-sw.github.io/",
+    "contributers": []
+  },
+  {
+    "project": "Apache Kafka Mirror",
+    "description": "A mirror for Apache Kafka, a distributed streaming platform",
+    "repository": "https://github.com/apache/kafka",
+    "website": "https://kafka.apache.org/",
+    "contributers": [
+      {
+        "name": "guozhangwang",
+        "email": "wangguoz@gmail.com"
+      },
+      {
+        "name": "cmccabe",
+        "email": "colin@cmccabe.xyz"
+      },
+      {
+        "name": "mjsax",
+        "email": "mjsax@apache.org"
+      },
+      {
+        "name": "ableegoldman",
+        "email": "sophie@confluent.io"
+      },
+      {
+        "name": "omkreddy",
+        "email": "manikumar.reddy@gmail.com"
+      },
+      {
+        "name": "hachikuji",
+        "email": "jason@confluent.io"
+      },
+      {
+        "name": "ijuma",
+        "email": "mlists@juma.me.uk"
+      },
+      {
+        "name": "dguy",
+        "email": "damian.guy@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Electron",
+    "description": "A framework to write cross-platform desktop applications using JavaScript, HTML and CSS",
+    "repository": "https://github.com/electron/electron",
+    "website": "https://electronjs.org/",
+    "contributers": [
+      {
+        "name": "electron-bot",
+        "email": "electron@github.com"
+      },
+      {
+        "name": "alexeykuzmin",
+        "email": "github@alexeykuzmin.com"
+      },
+      {
+        "name": "miniak",
+        "email": "milan.burda@gmail.com"
+      },
+      {
+        "name": "jkleinsc",
+        "email": "jkleinsc@electronjs.org"
+      },
+      {
+        "name": "deepak1556",
+        "email": "hop2deep@gmail.com"
+      },
+      {
+        "name": "zcbenz",
+        "email": "zcbenz@gmail.com"
+      },
+      {
+        "name": "nornagon",
+        "email": "nornagon@nornagon.net"
+      },
+      {
+        "name": "kevinsawicki",
+        "email": "kevin@github.com"
+      },
+      {
+        "name": "zeke",
+        "email": "zeke@sikelianos.com"
+      },
+      {
+        "name": "codebytere",
+        "email": "shelley.vohr@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Zephyr Project",
+    "description": "A real-time operating system",
+    "repository": "https://github.com/zephyrproject-rtos/zephyr",
+    "website": "https://www.zephyrproject.org/",
+    "contributers": [
+      {
+        "name": "tbursztyka",
+        "email": "tomasz.bursztyka@intel.com"
+      },
+      {
+        "name": "finikorg",
+        "email": "andrei.emeltchenko@intel.com"
+      },
+      {
+        "name": "jukkar",
+        "email": "jukka.rissanen@intel.com"
+      },
+      {
+        "name": "jhedberg",
+        "email": "johan.hedberg@intel.com"
+      },
+      {
+        "name": "pabigot",
+        "email": "pab@pabigot.com"
+      },
+      {
+        "name": "dcpleung",
+        "email": "daniel.leung@intel.com"
+      },
+      {
+        "name": "ioannisg",
+        "email": "Ioannis.Glaropoulos@nordicsemi.no"
+      },
+      {
+        "name": "nashif",
+        "email": "anas.nashif@intel.com"
+      }
+    ]
+  },
+  {
+    "project": "The web-platform-tests Project",
+    "description": "A cross-browser testsuite for the Web-platform stack",
+    "repository": "https://github.com/web-platform-tests/wpt",
+    "website": "https://www.w3.org/",
+    "contributers": [
+      {
+        "name": "jgraham",
+        "email": "jgraham@hoppipolla.co.uk"
+      },
+      {
+        "name": "gsnedders",
+        "email": "me@gsnedders.com"
+      },
+      {
+        "name": "zcorpan",
+        "email": "zcorpan@gmail.com"
+      },
+      {
+        "name": "emilio",
+        "email": "emilio@crisal.io"
+      },
+      {
+        "name": "annevk",
+        "email": "annevk@annevk.nl"
+      },
+      {
+        "name": "sideshowbarker",
+        "email": "mike@w3.org"
+      }
+    ]
+  },
+  {
+    "project": "Marlin Firmware",
+    "description": "Optimized firmware for RepRap 3D printers based on the Arduino platform",
+    "repository": "https://github.com/MarlinFirmware/Marlin",
+    "website": "http://marlinfw.org/",
+    "contributers": [
+      {
+        "name": "AnHardt",
+        "email": "github@kitelab.de"
+      },
+      {
+        "name": "rhapsodyv",
+        "email": "github@victormo.com.br"
+      }
+    ]
+  },
+  {
+    "project": "Apache MXNet",
+    "description": "A library for deep learning",
+    "repository": "https://github.com/apache/incubator-mxnet",
+    "website": "https://mxnet.apache.org/",
+    "contributers": [
+      {
+        "name": "pluskid",
+        "email": "pluskid@gmail.com"
+      },
+      {
+        "name": "mli",
+        "email": "mli@amazon.com"
+      },
+      {
+        "name": "eric-haibin-lin",
+        "email": "linhaibin.eric@gmail.com"
+      },
+      {
+        "name": "yzhliu",
+        "email": "liuyizhi@apache.org"
+      },
+      {
+        "name": "iblis17",
+        "email": "iblis.dif01@nctu.edu.tw"
+      }
+    ]
+  },
+  {
+    "project": "Apache Beam",
+    "description": "A unified programming model",
+    "repository": "https://github.com/apache/beam",
+    "website": "https://beam.apache.org/",
+    "contributers": [
+      {
+        "name": "jkff",
+        "email": "ekirpichov@gmail.com"
+      },
+      {
+        "name": "robertwb",
+        "email": "robertwb@gmail.com"
+      },
+      {
+        "name": "mxm",
+        "email": "mxm@apache.org"
+      },
+      {
+        "name": "kennknowles",
+        "email": "kenn@apache.org"
+      },
+      {
+        "name": "iemejia",
+        "email": "iemejia@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Fastlane",
+    "description": "A build and release automaton for iOS and Android apps",
+    "repository": "https://github.com/fastlane/fastlane",
+    "website": "https://fastlane.tools/",
+    "contributers": [
+      {
+        "name": "snatchev",
+        "email": "stefan.natchev@gmail.com"
+      },
+      {
+        "name": "hjanuschka",
+        "email": "helmut@januschka.com"
+      },
+      {
+        "name": "lacostej",
+        "email": "jerome.lacoste@gmail.com"
+      },
+      {
+        "name": "KrauseFx",
+        "email": "KrauseFx@gmail.com"
+      },
+      {
+        "name": "joshdholtz",
+        "email": "me@joshholtz.com"
+      },
+      {
+        "name": "crazymanish",
+        "email": "i.am.manish.rathi@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Kubernetes Website and Documentation",
+    "description": "A repository for the Kubernetes website and documentation",
+    "repository": "https://github.com/kubernetes/website",
+    "website": "https://kubernetes.io",
+    "contributers": []
+  },
+  {
+    "project": "Ruby on Rails",
+    "description": "A web-application framework",
+    "repository": "https://github.com/rails/rails",
+    "website": "https://rubyonrails.org/",
+    "contributers": [
+      {
+        "name": "dhh",
+        "email": "dhh@hey.com"
+      },
+      {
+        "name": "fxn",
+        "email": "fxn@hashref.com"
+      },
+      {
+        "name": "spastorino",
+        "email": "spastorino@gmail.com"
+      },
+      {
+        "name": "jeremy",
+        "email": "jeremy@hey.com"
+      },
+      {
+        "name": "kaspth",
+        "email": "hey@kaspth.com"
+      },
+      {
+        "name": "carlosantoniodasilva",
+        "email": "carlosantoniodasilva@gmail.com"
+      },
+      {
+        "name": "senny",
+        "email": "yves@hey.com"
+      },
+      {
+        "name": "rafaelfranca",
+        "email": "rafael@franca.dev"
+      },
+      {
+        "name": "josevalim",
+        "email": "jose.valim@dashbit.co"
+      }
+    ]
+  },
+  {
+    "project": "Zulip",
+    "description": "Team chat software",
+    "repository": "https://github.com/zulip/zulip",
+    "website": "https://zulipchat.com/",
+    "contributers": []
+  },
+  {
+    "project": "Laravel",
+    "description": "A web application framework",
+    "repository": "https://github.com/laravel/framework",
+    "website": "https://laravel.com/",
+    "contributers": [
+      {
+        "name": "themsaid",
+        "email": "themsaid@gmail.com"
+      },
+      {
+        "name": "crynobone",
+        "email": "crynobone@gmail.com"
+      },
+      {
+        "name": "JosephSilber",
+        "email": "contact@josephsilber.com"
+      },
+      {
+        "name": "taylorotwell",
+        "email": "taylor@laravel.com"
+      },
+      {
+        "name": "TBlindaruk",
+        "email": "t.blindaruk@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Baidu PaddlePaddle",
+    "description": "Baidu’s deep learning framework",
+    "repository": "https://github.com/PaddlePaddle/Paddle",
+    "website": "http://www.paddlepaddle.org/",
+    "contributers": [
+      {
+        "name": "JiayiFeng",
+        "email": "fengjy1101@gmail.com"
+      },
+      {
+        "name": "tensor-tang",
+        "email": "tl_tj_jan@163.com"
+      },
+      {
+        "name": "velconia",
+        "email": "velconias@gmail.com"
+      },
+      {
+        "name": "reyoung",
+        "email": "reyoung@126.com"
+      },
+      {
+        "name": "dzhwinter",
+        "email": "dzhwinter@gmail.com"
+      },
+      {
+        "name": "luotao1",
+        "email": "luotao02@baidu.com"
+      },
+      {
+        "name": "jacquesqiao",
+        "email": "631761418@qq.com"
+      },
+      {
+        "name": "gangliao",
+        "email": "gangliao@cs.umd.edu"
+      }
+    ]
+  },
+  {
+    "project": "Gatsby",
+    "description": "A web application framework",
+    "repository": "https://github.com/gatsbyjs/gatsby",
+    "website": "https://www.gatsbyjs.org/",
+    "contributers": []
+  },
+  {
+    "project": "Rust Crate Registry",
+    "description": "Rust’s community package registry",
+    "repository": "https://github.com/rust-lang/crates.io-index",
+    "website": "https://crates.io/",
+    "contributers": [
+      {
+        "name": "pietroalbini",
+        "email": "pietro@pietroalbini.org"
+      }
+    ]
+  },
+  {
+    "project": "Nintendo 3DS Custom Firmware",
+    "description": "A complete guide to 3DS custom firmware",
+    "repository": "https://github.com/hacks-guide/Guide_3DS",
+    "website": "https://3ds.hacks.guide/",
+    "contributers": [
+      {
+        "name": "Plailect",
+        "email": "plailect@icloud.com"
+      },
+      {
+        "name": "lifehackerhansol",
+        "email": "lifehacker@hansol.ca"
+      },
+      {
+        "name": "MechanicalDragon0687",
+        "email": "mechdragon@mechanicaldragon.xyz"
+      },
+      {
+        "name": "ihaveamac",
+        "email": "ian@ianburgwin.net"
+      }
+    ]
+  },
+  {
+    "project": "TiDB",
+    "description": "A NewSQL database",
+    "repository": "https://github.com/pingcap/tidb",
+    "website": "https://pingcap.com",
+    "contributers": [
+      {
+        "name": "qiuyesuifeng",
+        "email": "cuiqiu.bupt@gmail.com"
+      },
+      {
+        "name": "coocood",
+        "email": "coocood@gmail.com"
+      },
+      {
+        "name": "shenli",
+        "email": "shenli3514@gmail.com"
+      },
+      {
+        "name": "crazycs520",
+        "email": "crazycs520@gmail.com"
+      },
+      {
+        "name": "hanfei1991",
+        "email": "hanfei19910905@gmail.com"
+      },
+      {
+        "name": "zimulala",
+        "email": "zimu_xia@126.com"
+      },
+      {
+        "name": "siddontang",
+        "email": "siddontang@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Angular CLI",
+    "description": "CLI tool for Angular, a Google web application framework",
+    "repository": "https://github.com/angular/angular-cli",
+    "website": "https://cli.angular.io/",
+    "contributers": [
+      {
+        "name": "hansl",
+        "email": "hans@larsen.online"
+      },
+      {
+        "name": "filipesilva",
+        "email": "filipematossilva@gmail.com"
+      },
+      {
+        "name": "alan-agius4",
+        "email": "alan.agius4@gmail.com"
+      },
+      {
+        "name": "renovate-bot",
+        "email": "renovate@whitesourcesoftware.com"
+      }
+    ]
+  },
+  {
+    "project": "MAPS.ME",
+    "description": "Offline OpenStreetMap maps for iOS and Android",
+    "repository": "https://github.com/mapsme/omim",
+    "website": "https://maps.me/",
+    "contributers": [
+      {
+        "name": "bykoianko",
+        "email": "bykoianko@gmail.com"
+      },
+      {
+        "name": "igrechuhin",
+        "email": "i.grechuhin@gmail.com"
+      },
+      {
+        "name": "ygorshenin",
+        "email": "y@mapswithme.com"
+      },
+      {
+        "name": "darina",
+        "email": "dvolvenkova@gmail.com"
+      },
+      {
+        "name": "alexzatsepin",
+        "email": "alexander.zatsepin@mail.ru"
+      },
+      {
+        "name": "Zverik",
+        "email": "ilya@zverev.info"
+      },
+      {
+        "name": "vmihaylenko",
+        "email": "vxmihaylenko@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Eclipse Che",
+    "description": "A cloud IDE for Eclipse",
+    "repository": "https://github.com/eclipse/che",
+    "website": "http://www.eclipse.org/che/",
+    "contributers": [
+      {
+        "name": "mshaposhnik",
+        "email": "mshaposh@redhat.com"
+      },
+      {
+        "name": "TylerJewell",
+        "email": "tylerjewell@gmail.com"
+      },
+      {
+        "name": "RomanNikitenko",
+        "email": "rnikiten@redhat.com"
+      },
+      {
+        "name": "ashumilova",
+        "email": "ashumilo@redhat.com"
+      },
+      {
+        "name": "Ohrimenko1988",
+        "email": "iokhrime@redhat.com"
+      },
+      {
+        "name": "artaleks9",
+        "email": "oshmarai@redhat.com"
+      },
+      {
+        "name": "dmytro-ndp",
+        "email": "dnochevn@redhat.com"
+      }
+    ]
+  },
+  {
+    "project": "Brave Browser",
+    "description": "A browser with native BAT cryptocurrency",
+    "repository": "https://github.com/brave/browser-laptop",
+    "website": "https://www.brave.com/",
+    "contributers": [
+      {
+        "name": "aekeus",
+        "email": "aekeus@gmail.com"
+      },
+      {
+        "name": "diracdeltas",
+        "email": "yan@mit.edu"
+      },
+      {
+        "name": "petemill",
+        "email": "miller.pete@gmail.com"
+      },
+      {
+        "name": "darkdh",
+        "email": "darkdh@gmail.com"
+      },
+      {
+        "name": "mrose17",
+        "email": "mrose17@gmail.com"
+      },
+      {
+        "name": "bbondy",
+        "email": "netzen@gmail.com"
+      },
+      {
+        "name": "bsclifton",
+        "email": "brian@clifton.me"
+      }
+    ]
+  },
+  {
+    "project": "Patchwork",
+    "description": "A repository to learn Git",
+    "repository": "https://github.com/jlord/patchwork",
+    "website": "http://jlord.us/patchwork/",
+    "contributers": [
+      {
+        "name": "arlolanuzo",
+        "email": "johnarlo.c.lanuzo@gmail.com"
+      },
+      {
+        "name": "jlord",
+        "email": "jlord@github.com"
+      }
+    ]
+  },
+  {
+    "project": "Angular Material",
+    "description": "Component infrastructure and Material Design components for Angular, a Google web application framework",
+    "repository": "https://github.com/angular/components",
+    "website": "https://material.angular.io/",
+    "contributers": [
+      {
+        "name": "annieyw",
+        "email": "anniewang8697@gmail.com"
+      },
+      {
+        "name": "devversion",
+        "email": "paulgschwendtner@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Python",
+    "description": "Programming language",
+    "repository": "https://github.com/python/cpython",
+    "website": "https://www.python.org/",
+    "contributers": [
+      {
+        "name": "tim-one",
+        "email": "tim.peters@gmail.com"
+      },
+      {
+        "name": "jackjansen",
+        "email": "Jack.Jansen@cwi.nl"
+      },
+      {
+        "name": "freddrake",
+        "email": "fred@fdrake.net"
+      },
+      {
+        "name": "birkenfeld",
+        "email": "georg@python.org"
+      },
+      {
+        "name": "vstinner",
+        "email": "vstinner@python.org"
+      }
+    ]
+  },
+  {
+    "project": "Space Station 13",
+    "description": "A round-based roleplaying game",
+    "repository": "https://github.com/vgstation-coders/vgstation13",
+    "website": "http://ss13.moe/",
+    "contributers": [
+      {
+        "name": "N3X15",
+        "email": "nexisentertainment@gmail.com"
+      },
+      {
+        "name": "caelaislinn",
+        "email": "cael_aislinn@yahoo.com.au"
+      }
+    ]
+  },
+  {
+    "project": "Cataclysm: Dark Days Ahead",
+    "description": "A turn-based survival game",
+    "repository": "https://github.com/CleverRaven/Cataclysm-DDA",
+    "website": "http://cataclysmdda.org/",
+    "contributers": [
+      {
+        "name": "Coolthulhu",
+        "email": "Coolthulhu@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Material-UI",
+    "description": "React components that implement Google’s Material Design",
+    "repository": "https://github.com/mui-org/material-ui",
+    "website": "https://material-ui.com/",
+    "contributers": [
+      {
+        "name": "mnajdova",
+        "email": "mnajdova@gmail.com"
+      },
+      {
+        "name": "mmrtnz",
+        "email": "muhammad_martinez@yahoo.com"
+      },
+      {
+        "name": "dmtrKovalenko",
+        "email": "dmtr.kovalenko@outlook.com"
+      },
+      {
+        "name": "oliviertassinari",
+        "email": "olivier@mui.com"
+      },
+      {
+        "name": "eps1lon",
+        "email": "silbermann.sebastian@gmail.com"
+      },
+      {
+        "name": "renovate-bot",
+        "email": "renovate@whitesourcesoftware.com"
+      }
+    ]
+  },
+  {
+    "project": "Ionic",
+    "description": "A Progressive Web Apps development framework",
+    "repository": "https://github.com/ionic-team/ionic",
+    "website": "https://ionicframework.com/",
+    "contributers": []
+  },
+  {
+    "project": "Oppia",
+    "description": "A tool for collaboratively building interactive lessons",
+    "repository": "https://github.com/oppia/oppia",
+    "website": "https://www.oppia.org",
+    "contributers": [
+      {
+        "name": "wxyxinyu",
+        "email": "wxyxinyu@gmail.com"
+      },
+      {
+        "name": "kevintab95",
+        "email": "kevintab@tutanota.com"
+      },
+      {
+        "name": "aks681",
+        "email": "akshayanand681@gmail.com"
+      },
+      {
+        "name": "brianrodri",
+        "email": "brian@brianrodri.com"
+      },
+      {
+        "name": "vojtechjelinek",
+        "email": "vojtin.j@gmail.com"
+      },
+      {
+        "name": "DubeySandeep",
+        "email": "dubeysandeep.in@gmail.com"
+      }
+    ]
+  },
+  {
+    "project": "Alluxio",
+    "description": "A virtual distributed storage system",
+    "repository": "https://github.com/Alluxio/alluxio",
+    "website": "https://www.alluxio.io/",
+    "contributers": [
+      {
+        "name": "haoyuan",
+        "email": "haoyuan@alluxio.com"
+      },
+      {
+        "name": "ifcharming",
+        "email": "ifcharming@gmail.com"
+      },
+      {
+        "name": "peisun1115",
+        "email": "sunpeiaron@gmail.com"
+      },
+      {
+        "name": "HorizonNet",
+        "email": "jan.hentschel@ultratendency.com"
+      }
+    ]
+  },
+  {
+    "project": "XX Net",
+    "description": "A Chinese web proxy and anti-censorship tool",
+    "repository": "https://github.com/XX-net/XX-Net",
+    "website": "None",
+    "contributers": []
+  },
+  {
+    "project": "Microsoft .NET CLI",
+    "description": "A CLI tool for .NET",
+    "repository": "https://github.com/dotnet/cli",
+    "website": "https://docs.microsoft.com/en-us",
+    "contributers": [
+      {
+        "name": "nguerrera",
+        "email": "nicholg@microsoft.com"
+      }
+    ]
+  }
+]
