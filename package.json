@@ -4,12 +4,7 @@
   "description": "",
   "main": "src/scrape.js",
   "scripts": {
-    "export": "node csv-export.js",
-    "add-contributers": "node add-contributers.js",
-    "clean": "node clean.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node scrape.js",
-    "backup": "node backup.js"
+    "start": "node scrape.js"
   },
   "repository": {
     "type": "git",
@@ -25,10 +20,12 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
     "dotenv": "^14.3.2",
+    "images-scraper": "^6.4.0",
     "json2csv": "^5.0.6",
     "node-fetch": "^3.2.0",
     "puppeteer": "^13.1.2",
     "puppeteer-extra": "^3.2.3",
-    "puppeteer-extra-plugin-stealth": "^2.9.0"
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "request": "^2.88.2"
   }
 }
