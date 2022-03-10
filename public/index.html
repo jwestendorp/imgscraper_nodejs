@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+
+    <style>
+        img {
+            max-width: 80vw;
+        }
+    </style>
+
+</head>
+
+<body>
+    <form onsubmit="myFunction(); return false">
+        Enter name: <input type="text" id="searchInput">
+        <input type="submit" value="Submit">
+    </form>
+    <img id='myImg' />
+
+</body>
+
+<script>
+    const input = document.querySelector('#searchInput');
+    const img = document.querySelector('#myImg');
+
+
+    async function myFunction(e) {
+        console.log(input.value)
+        var requestOptions = {
+            method: 'GET',
+            redirect: 'follow',
+            // mode: 'no-cors',
+        };
+        fetch(`http://localhost:3000/scrape?searchTerm=${input.value}`, requestOptions)
+            .then(response => { console.log(response); return response.text() })
+            .then(result => img.src = result)
+            .catch(error => console.log('error', error));
+
+    }
+
+</script>
+
+</html>

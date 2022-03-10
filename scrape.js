@@ -1,28 +1,30 @@
-import Scraper from 'images-scraper';
-import request from 'request';
-import fs from 'fs';
+import Scraper from "images-scraper";
+import express from "express";
+const app = express();
+const port = 3000;
 
+app.use("/", express.static("public"));
+
+app.get("/scrape", async (req, res) => {
+  console.log("req", req.query.searchTerm);
+  scrape(req.query.searchTerm).then((url) => {
+    console.log(url);
+    res.send(url);
+  });
+});
+
+app.listen(port, () => {
+  console.log(`Example app listening on port ${port}`);
+});
+
+//scraper
 const google = new Scraper({
   puppeteer: {
     headless: false,
   },
 });
 
-(async () => {
-  const results = await google.scrape('banana', 50);
-  results.forEach((element,index) => {
-    download(element.url, 'data/'+index+'img.png', function(){
-    console.log('done');
-});
-  });
-})();
-
-var download = function(uri, filename, callback){
-  request.head(uri, function(err, res, body){
-    console.log('content-type:', res.headers['content-type']);
-    console.log('content-length:', res.headers['content-length']);
-
-    request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
-  });
+const scrape = async (searchTerm) => {
+  const results = await google.scrape(searchTerm, 50);
+  return results[Math.floor(Math.random() * results.length)].url;
 };
-
